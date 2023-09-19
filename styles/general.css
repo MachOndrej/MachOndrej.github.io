@@ -3,11 +3,10 @@ body {
   padding-top: 5px;
   padding-left: 15px;
   background-color: rgb(173, 163, 123);
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Poppins', sans-serif;
   color: black;
   text-align: center;
 }
-
 
 h1 {
   font-size: 68px;
